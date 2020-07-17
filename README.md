@@ -10,7 +10,7 @@ If you find those results useful please cite this paper :
     booktitle = {Proc.\ 3rd International Conference on Intelligent Technologies and Applications (INTAP 2020)},
     volume = 5805,
     series = {LNCS},
-    publisher = {Springer},
+    publisher = {Springer},author  = {Ferhat Ozgur Catak},
     year = {2020}
     }
 ```
